@@ -1,15 +1,17 @@
 Package: minimax
 Type: Package
-Title: Minimax distribution family
-Version: 1.0
-Date: 2011-07-22
+Title: The Minimax Distribution Family
+Version: 1.1
+Date: 2022-02-20
 Author: Bill Venables
 Maintainer: Bill Venables <Bill.Venables@gmail.com>
 Description: The minimax family of distributions is a two-parameter
         family like the beta family, but computationally a lot more
         tractible.
+Imports: stats
 License: GPL-2 | GPL-3
 LazyLoad: yes
-Packaged: 2011-07-22 05:11:31 UTC; ven037
+NeedsCompilation: no
+Packaged: 2022-02-20 00:38:41 UTC; bill
 Repository: CRAN
-Date/Publication: 2011-07-23 13:57:15
+Date/Publication: 2022-02-21 08:50:08 UTC
