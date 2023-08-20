@@ -8,17 +8,17 @@ Minimax distribution family
 Standard functions to calculate probabilities, densities and quantiles
 for the minimax family, and to generate pseudo-random values.
 }
-\details{
-\tabular{ll}{
-Package: \tab minimax\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-07-22\cr
-License: \tab GPL-2|GPL-3\cr
-LazyLoad: \tab yes\cr
-}
+%% \details{
+%% \tabular{ll}{
+%% Package: \tab minimax\cr
+%% Type: \tab Package\cr
+%% Version: \tab 1.0\cr
+%% Date: \tab 2011-07-22\cr
+%% License: \tab GPL-2|GPL-3\cr
+%% LazyLoad: \tab yes\cr
+%% }
+%% }
 
-}
 \author{
 Bill Venables
 
